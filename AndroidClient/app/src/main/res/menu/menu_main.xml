@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.salgado.jorge.keymanky.enviosmsmasivo.MainActivity">
+    <item
+        android:id="@+id/Run"
+        android:orderInCategory="100"
+        android:title="@string/Run"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/PruebaMsn"
+        android:orderInCategory="100"
+        android:title="@string/PruebaMsn"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/PruebaVolley"
+        android:orderInCategory="100"
+        android:title="@string/PruebaVolley"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/PruebaCron"
+        android:orderInCategory="100"
+        android:title="@string/PruebaCron"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/PruebaGPS"
+        android:orderInCategory="100"
+        android:title="@string/PruebaGPS"
+        app:showAsAction="never" />
+</menu>

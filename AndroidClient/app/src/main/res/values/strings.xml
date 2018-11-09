@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Envio MSN Texto</string>
+    <string name="Run">Actualizar</string>
+    <string name="PruebaVolley">Probar Internet</string>
+    <string name="PruebaCron">Probar Cron</string>
+    <string name="PruebaGPS">Probar GPS</string>
+    <string name="PruebaMsn">Probar Msn Envio</string>
+</resources>
